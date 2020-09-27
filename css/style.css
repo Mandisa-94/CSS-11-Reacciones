@@ -1,0 +1,17 @@
+main {
+    font-family: 'Bebas Neue', cursive;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+h3 a {
+    font-size: 30px;
+    color: lightskyblue;
+    text-decoration: none;
+}
+
+span {
+    background-color: lightslategray;
+}
